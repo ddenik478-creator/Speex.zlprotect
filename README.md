@@ -1,0 +1,2 @@
+# Speex.zlprotect
+Protected
